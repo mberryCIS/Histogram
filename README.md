@@ -13,7 +13,7 @@ Uses dashes (-) for positions not divisible by 5.
 Uses asterisks (*) for every 5th position.
 
 
-#How It Works#
+How It Works
 
 Input the Number of Data Items:
 
