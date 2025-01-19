@@ -49,7 +49,7 @@ Displaying Histogram
 ----*-*---*
 ---
 ```
-#Explanation:#
+Explanation:
 
 First Row (7): 6 dashes and 1 asterisk.
 
@@ -57,7 +57,8 @@ Second Row (10): Alternates between 4 dashes, 1 asterisk, 4 dashes, and 1 asteri
 
 Third Row (3): Contains 3 dashes only.
 
-#How to Compile and Run#
+
+How to Compile and Run
 
 Save the program as histogram.cpp.
 
