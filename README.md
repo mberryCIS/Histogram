@@ -1,3 +1,5 @@
+# Histogram
+
 This project is a simple C++ program that generates a histogram based on user-provided data values. The histogram displays each data value as a series of characters (- and *), with * appearing at every 5th position in the seque
 
 Features
@@ -11,7 +13,7 @@ Uses dashes (-) for positions not divisible by 5.
 Uses asterisks (*) for every 5th position.
 
 
-How It Works
+# How It Works
 
 Input the Number of Data Items:
 
@@ -47,7 +49,7 @@ Displaying Histogram
 ----*-*---*
 ---
 ```
-Explanation:
+# Explanation:
 
 First Row (7): 6 dashes and 1 asterisk.
 
@@ -56,7 +58,7 @@ Second Row (10): Alternates between 4 dashes, 1 asterisk, 4 dashes, and 1 asteri
 Third Row (3): Contains 3 dashes only.
 
 
-How to Compile and Run
+# How to Compile and Run
 
 Save the program as histogram.cpp.
 
