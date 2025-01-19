@@ -1,5 +1,3 @@
-Histogram Generator
-
 This project is a simple C++ program that generates a histogram based on user-provided data values. The histogram displays each data value as a series of characters (- and *), with * appearing at every 5th position in the seque
 
 Features
