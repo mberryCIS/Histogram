@@ -48,7 +48,7 @@ Displaying Histogram
 ----*-*---*
 ---
 ```
-##Explanation:##
+#Explanation:#
 
 First Row (7): 6 dashes and 1 asterisk.
 
